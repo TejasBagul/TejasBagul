@@ -2,7 +2,7 @@
 * 👋 Hi, I’m @tejasbagul_07
 * 👀 I’m interested in Front End Web Development and Mobile App Development
 * 🌱 I’m currently learning NodeJS
-* 💞️ I’m looking to collaborate on Web Development
+* 💞️ I’m looking to collaborate on Web/Mobile Development 
 * 📫 How to reach me: https://www.linkedin.com/in/tejas-bagul-b243691ba/
 
 
